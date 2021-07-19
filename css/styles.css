@@ -1,0 +1,19 @@
+#title{
+  background-color: #ff4c68;
+}
+
+.catchy-content{
+  font-family: 'Montserrat', sans-serif;
+  font-weight: 900;
+  font-size: 3rem;
+  line-height: 1.5;
+}
+
+.container-fluid{
+  padding: 3% 5%;
+}
+
+.tindog-emblem{
+  font-family: 'Gloria Hallelujah', sans-serif;
+  font-weight: 400;
+}
